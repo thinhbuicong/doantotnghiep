@@ -1,0 +1,16 @@
+{
+    "info":
+    {
+        "description": "BCT dataset",
+        "version": "1",
+        "url": "no-url/datasets.com",
+        "year": 2022,
+        "contributor": "BuiCongThinh",
+        "date_created": "14/03/2022"
+    },
+    "license":{
+        "url":"no-url/licenses.com",
+        "id": 0,
+        "name": "BCT"
+    }
+}

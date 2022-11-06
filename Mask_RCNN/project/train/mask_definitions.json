@@ -1,0 +1,1571 @@
+{
+    "masks":
+    {
+        "images/0.jpg":
+        {
+            "mask": "masks/0.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_2", "super_category": "tomato"}
+            }
+        },"images/1.jpg":
+        {
+            "mask": "masks/1.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_1", "super_category": "tomato"}
+            }
+        },"images/2.jpg":
+        {
+            "mask": "masks/2.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_1", "super_category": "tomato"}
+            }
+        },"images/3.jpg":
+        {
+            "mask": "masks/3.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_1", "super_category": "tomato"}
+            }
+        },"images/4.jpg":
+        {
+            "mask": "masks/4.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_1", "super_category": "tomato"}
+            }
+        },"images/5.jpg":
+        {
+            "mask": "masks/5.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_1", "super_category": "tomato"}
+            }
+        },"images/6.jpg":
+        {
+            "mask": "masks/6.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_1", "super_category": "tomato"}
+            }
+        },"images/7.jpg":
+        {
+            "mask": "masks/7.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_1", "super_category": "tomato"}
+            }
+        },"images/8.jpg":
+        {
+            "mask": "masks/8.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_1", "super_category": "tomato"}
+            }
+        },"images/9.jpg":
+        {
+            "mask": "masks/9.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_1", "super_category": "tomato"}
+            }
+        },"images/10.jpg":
+        {
+            "mask": "masks/10.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_1", "super_category": "tomato"}
+            }
+        },"images/11.jpg":
+        {
+            "mask": "masks/11.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_1", "super_category": "tomato"}
+            }
+        },"images/12.jpg":
+        {
+            "mask": "masks/12.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_1", "super_category": "tomato"}
+            }
+        },"images/13.jpg":
+        {
+            "mask": "masks/13.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_1", "super_category": "tomato"}
+            }
+        },"images/14.jpg":
+        {
+            "mask": "masks/14.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_1", "super_category": "tomato"}
+            }
+        },"images/15.jpg":
+        {
+            "mask": "masks/15.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_1", "super_category": "tomato"}
+            }
+        },"images/16.jpg":
+        {
+            "mask": "masks/16.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_1", "super_category": "tomato"}
+            }
+        },"images/17.jpg":
+        {
+            "mask": "masks/17.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_1", "super_category": "tomato"}
+            }
+        },"images/18.jpg":
+        {
+            "mask": "masks/18.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_1", "super_category": "tomato"}
+            }
+        },"images/19.jpg":
+        {
+            "mask": "masks/19.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_1", "super_category": "tomato"}
+            }
+        },"images/20.jpg":
+        {
+            "mask": "masks/20.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_1", "super_category": "tomato"}
+            }
+        },"images/21.jpg":
+        {
+            "mask": "masks/21.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_1", "super_category": "tomato"}
+            }
+        },"images/22.jpg":
+        {
+            "mask": "masks/22.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_1", "super_category": "tomato"}
+            }
+        },"images/23.jpg":
+        {
+            "mask": "masks/23.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_1", "super_category": "tomato"}
+            }
+        },"images/24.jpg":
+        {
+            "mask": "masks/24.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_1", "super_category": "tomato"}
+            }
+        },"images/25.jpg":
+        {
+            "mask": "masks/25.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_1", "super_category": "tomato"}
+            }
+        },"images/26.jpg":
+        {
+            "mask": "masks/26.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_1", "super_category": "tomato"}
+            }
+        },"images/27.jpg":
+        {
+            "mask": "masks/27.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_1", "super_category": "tomato"}
+            }
+        },"images/28.jpg":
+        {
+            "mask": "masks/28.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_1", "super_category": "tomato"}
+            }
+        },"images/29.jpg":
+        {
+            "mask": "masks/29.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_1", "super_category": "tomato"}
+            }
+        },"images/30.jpg":
+        {
+            "mask": "masks/30.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_1", "super_category": "tomato"}
+            }
+        },"images/31.jpg":
+        {
+            "mask": "masks/31.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_1", "super_category": "tomato"}
+            }
+        },"images/32.jpg":
+        {
+            "mask": "masks/32.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_1", "super_category": "tomato"}
+            }
+        },"images/33.jpg":
+        {
+            "mask": "masks/33.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_1", "super_category": "tomato"}
+            }
+        },"images/34.jpg":
+        {
+            "mask": "masks/34.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_1", "super_category": "tomato"}
+            }
+        },"images/35.jpg":
+        {
+            "mask": "masks/35.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_1", "super_category": "tomato"}
+            }
+        },"images/36.jpg":
+        {
+            "mask": "masks/36.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_1", "super_category": "tomato"}
+            }
+        },"images/37.jpg":
+        {
+            "mask": "masks/37.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_1", "super_category": "tomato"}
+            }
+        },"images/38.jpg":
+        {
+            "mask": "masks/38.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_1", "super_category": "tomato"}
+            }
+        },"images/39.jpg":
+        {
+            "mask": "masks/39.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_1", "super_category": "tomato"}
+            }
+        },"images/40.jpg":
+        {
+            "mask": "masks/40.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_1", "super_category": "tomato"}
+            }
+        },"images/41.jpg":
+        {
+            "mask": "masks/41.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_1", "super_category": "tomato"}
+            }
+        },"images/42.jpg":
+        {
+            "mask": "masks/42.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_1", "super_category": "tomato"}
+            }
+        },"images/43.jpg":
+        {
+            "mask": "masks/43.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_1", "super_category": "tomato"}
+            }
+        },"images/44.jpg":
+        {
+            "mask": "masks/44.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_1", "super_category": "tomato"}
+            }
+        },"images/45.jpg":
+        {
+            "mask": "masks/45.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_1", "super_category": "tomato"}
+            }
+        },"images/46.jpg":
+        {
+            "mask": "masks/46.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_1", "super_category": "tomato"}
+            }
+        },"images/47.jpg":
+        {
+            "mask": "masks/47.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_1", "super_category": "tomato"}
+            }
+        },"images/48.jpg":
+        {
+            "mask": "masks/48.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_1", "super_category": "tomato"}
+            }
+        },"images/49.jpg":
+        {
+            "mask": "masks/49.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_1", "super_category": "tomato"}
+            }
+        },"images/50.jpg":
+        {
+            "mask": "masks/50.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_1", "super_category": "tomato"}
+            }
+        },"images/51.jpg":
+        {
+            "mask": "masks/51.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_1", "super_category": "tomato"}
+            }
+        },"images/52.jpg":
+        {
+            "mask": "masks/52.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_1", "super_category": "tomato"}
+            }
+        },"images/53.jpg":
+        {
+            "mask": "masks/53.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_1", "super_category": "tomato"}
+            }
+        },"images/54.jpg":
+        {
+            "mask": "masks/54.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_1", "super_category": "tomato"}
+            }
+        },"images/55.jpg":
+        {
+            "mask": "masks/55.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_1", "super_category": "tomato"}
+            }
+        },"images/56.jpg":
+        {
+            "mask": "masks/56.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_1", "super_category": "tomato"}
+            }
+        },"images/57.jpg":
+        {
+            "mask": "masks/57.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_1", "super_category": "tomato"}
+            }
+        },"images/58.jpg":
+        {
+            "mask": "masks/58.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_2", "super_category": "tomato"}
+            }
+        },"images/59.jpg":
+        {
+            "mask": "masks/59.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_1", "super_category": "tomato"}
+            }
+        },"images/60.jpg":
+        {
+            "mask": "masks/60.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_1", "super_category": "tomato"}
+            }
+        },"images/61.jpg":
+        {
+            "mask": "masks/61.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_1", "super_category": "tomato"}
+            }
+        },"images/62.jpg":
+        {
+            "mask": "masks/62.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_2", "super_category": "tomato"}
+            }
+        },"images/63.jpg":
+        {
+            "mask": "masks/63.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_2", "super_category": "tomato"}
+            }
+        },"images/64.jpg":
+        {
+            "mask": "masks/64.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_2", "super_category": "tomato"}
+            }
+        },"images/65.jpg":
+        {
+            "mask": "masks/65.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_2", "super_category": "tomato"}
+            }
+        },"images/66.jpg":
+        {
+            "mask": "masks/66.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_2", "super_category": "tomato"}
+            }
+        },"images/67.jpg":
+        {
+            "mask": "masks/67.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_2", "super_category": "tomato"}
+            }
+        },"images/68.jpg":
+        {
+            "mask": "masks/68.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_1", "super_category": "tomato"}
+            }
+        },"images/69.jpg":
+        {
+            "mask": "masks/69.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_1", "super_category": "tomato"}
+            }
+        },"images/70.jpg":
+        {
+            "mask": "masks/70.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_1", "super_category": "tomato"}
+            }
+        },"images/71.jpg":
+        {
+            "mask": "masks/71.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_1", "super_category": "tomato"}
+            }
+        },"images/72.jpg":
+        {
+            "mask": "masks/72.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_1", "super_category": "tomato"}
+            }
+        },"images/73.jpg":
+        {
+            "mask": "masks/73.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_1", "super_category": "tomato"}
+            }
+        },"images/74.jpg":
+        {
+            "mask": "masks/74.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_1", "super_category": "tomato"}
+            }
+        },"images/75.jpg":
+        {
+            "mask": "masks/75.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_1", "super_category": "tomato"}
+            }
+        },"images/76.jpg":
+        {
+            "mask": "masks/76.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_1", "super_category": "tomato"}
+            }
+        },"images/77.jpg":
+        {
+            "mask": "masks/77.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_1", "super_category": "tomato"}
+            }
+        },"images/78.jpg":
+        {
+            "mask": "masks/78.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_1", "super_category": "tomato"}
+            }
+        },"images/79.jpg":
+        {
+            "mask": "masks/79.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_1", "super_category": "tomato"}
+            }
+        },"images/80.jpg":
+        {
+            "mask": "masks/80.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_1", "super_category": "tomato"}
+            }
+        },"images/81.jpg":
+        {
+            "mask": "masks/81.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_1", "super_category": "tomato"}
+            }
+        },"images/82.jpg":
+        {
+            "mask": "masks/82.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_1", "super_category": "tomato"}
+            }
+        },"images/83.jpg":
+        {
+            "mask": "masks/83.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_1", "super_category": "tomato"}
+            }
+        },"images/84.jpg":
+        {
+            "mask": "masks/84.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_1", "super_category": "tomato"}
+            }
+        },"images/85.jpg":
+        {
+            "mask": "masks/85.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_1", "super_category": "tomato"}
+            }
+        },"images/86.jpg":
+        {
+            "mask": "masks/86.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_1", "super_category": "tomato"}
+            }
+        },"images/87.jpg":
+        {
+            "mask": "masks/87.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_1", "super_category": "tomato"}
+            }
+        },"images/88.jpg":
+        {
+            "mask": "masks/88.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_1", "super_category": "tomato"}
+            }
+        },"images/89.jpg":
+        {
+            "mask": "masks/89.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_1", "super_category": "tomato"}
+            }
+        },"images/90.jpg":
+        {
+            "mask": "masks/90.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_1", "super_category": "tomato"}
+            }
+        },"images/91.jpg":
+        {
+            "mask": "masks/91.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_1", "super_category": "tomato"}
+            }
+        },"images/92.jpg":
+        {
+            "mask": "masks/92.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_1", "super_category": "tomato"}
+            }
+        },"images/93.jpg":
+        {
+            "mask": "masks/93.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_1", "super_category": "tomato"}
+            }
+        },"images/94.jpg":
+        {
+            "mask": "masks/94.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_2", "super_category": "tomato"}
+            }
+        },"images/95.jpg":
+        {
+            "mask": "masks/95.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_2", "super_category": "tomato"}
+            }
+        },"images/96.jpg":
+        {
+            "mask": "masks/96.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_2", "super_category": "tomato"}
+            }
+        },"images/97.jpg":
+        {
+            "mask": "masks/97.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_2", "super_category": "tomato"}
+            }
+        },"images/98.jpg":
+        {
+            "mask": "masks/98.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_2", "super_category": "tomato"}
+            }
+        },"images/99.jpg":
+        {
+            "mask": "masks/99.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_2", "super_category": "tomato"}
+            }
+        },"images/100.jpg":
+        {
+            "mask": "masks/100.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_2", "super_category": "tomato"}
+            }
+        },"images/101.jpg":
+        {
+            "mask": "masks/101.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_2", "super_category": "tomato"}
+            }
+        },"images/102.jpg":
+        {
+            "mask": "masks/102.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_2", "super_category": "tomato"}
+            }
+        },"images/103.jpg":
+        {
+            "mask": "masks/103.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_2", "super_category": "tomato"}
+            }
+        },"images/104.jpg":
+        {
+            "mask": "masks/104.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_2", "super_category": "tomato"}
+            }
+        },"images/105.jpg":
+        {
+            "mask": "masks/105.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_2", "super_category": "tomato"}
+            }
+        },"images/106.jpg":
+        {
+            "mask": "masks/106.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_2", "super_category": "tomato"}
+            }
+        },"images/107.jpg":
+        {
+            "mask": "masks/107.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_2", "super_category": "tomato"}
+            }
+        },"images/108.jpg":
+        {
+            "mask": "masks/108.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_2", "super_category": "tomato"}
+            }
+        },"images/109.jpg":
+        {
+            "mask": "masks/109.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_2", "super_category": "tomato"}
+            }
+        },"images/110.jpg":
+        {
+            "mask": "masks/110.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_2", "super_category": "tomato"}
+            }
+        },"images/111.jpg":
+        {
+            "mask": "masks/111.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_2", "super_category": "tomato"}
+            }
+        },"images/112.jpg":
+        {
+            "mask": "masks/112.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_2", "super_category": "tomato"}
+            }
+        },"images/113.jpg":
+        {
+            "mask": "masks/113.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_2", "super_category": "tomato"}
+            }
+        },"images/114.jpg":
+        {
+            "mask": "masks/114.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_2", "super_category": "tomato"}
+            }
+        },"images/115.jpg":
+        {
+            "mask": "masks/115.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_2", "super_category": "tomato"}
+            }
+        },"images/116.jpg":
+        {
+            "mask": "masks/116.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_2", "super_category": "tomato"}
+            }
+        },"images/117.jpg":
+        {
+            "mask": "masks/117.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_2", "super_category": "tomato"}
+            }
+        },"images/118.jpg":
+        {
+            "mask": "masks/118.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_2", "super_category": "tomato"}
+            }
+        },"images/119.jpg":
+        {
+            "mask": "masks/119.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_2", "super_category": "tomato"}
+            }
+        },"images/120.jpg":
+        {
+            "mask": "masks/120.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_2", "super_category": "tomato"}
+            }
+        },"images/121.jpg":
+        {
+            "mask": "masks/121.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_2", "super_category": "tomato"}
+            }
+        },"images/122.jpg":
+        {
+            "mask": "masks/122.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_2", "super_category": "tomato"}
+            }
+        },"images/123.jpg":
+        {
+            "mask": "masks/123.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_2", "super_category": "tomato"}
+            }
+        },"images/124.jpg":
+        {
+            "mask": "masks/124.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_2", "super_category": "tomato"}
+            }
+        },"images/125.jpg":
+        {
+            "mask": "masks/125.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_2", "super_category": "tomato"}
+            }
+        },"images/126.jpg":
+        {
+            "mask": "masks/126.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_2", "super_category": "tomato"}
+            }
+        },"images/127.jpg":
+        {
+            "mask": "masks/127.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_2", "super_category": "tomato"}
+            }
+        },"images/128.jpg":
+        {
+            "mask": "masks/128.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_2", "super_category": "tomato"}
+            }
+        },"images/129.jpg":
+        {
+            "mask": "masks/129.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_2", "super_category": "tomato"}
+            }
+        },"images/130.jpg":
+        {
+            "mask": "masks/130.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_2", "super_category": "tomato"}
+            }
+        },"images/131.jpg":
+        {
+            "mask": "masks/131.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_2", "super_category": "tomato"}
+            }
+        },"images/132.jpg":
+        {
+            "mask": "masks/132.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_2", "super_category": "tomato"}
+            }
+        },"images/133.jpg":
+        {
+            "mask": "masks/133.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_2", "super_category": "tomato"}
+            }
+        },"images/134.jpg":
+        {
+            "mask": "masks/134.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_2", "super_category": "tomato"}
+            }
+        },"images/135.jpg":
+        {
+            "mask": "masks/135.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_2", "super_category": "tomato"}
+            }
+        },"images/136.jpg":
+        {
+            "mask": "masks/136.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_2", "super_category": "tomato"}
+            }
+        },"images/137.jpg":
+        {
+            "mask": "masks/137.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_2", "super_category": "tomato"}
+            }
+        },"images/138.jpg":
+        {
+            "mask": "masks/138.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_2", "super_category": "tomato"}
+            }
+        },"images/139.jpg":
+        {
+            "mask": "masks/139.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_3", "super_category": "tomato"}
+            }
+        },"images/140.jpg":
+        {
+            "mask": "masks/140.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_2", "super_category": "tomato"}
+            }
+        },"images/141.jpg":
+        {
+            "mask": "masks/141.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_3", "super_category": "tomato"}
+            }
+        },"images/142.jpg":
+        {
+            "mask": "masks/142.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_3", "super_category": "tomato"}
+            }
+        },"images/143.jpg":
+        {
+            "mask": "masks/143.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_3", "super_category": "tomato"}
+            }
+        },"images/144.jpg":
+        {
+            "mask": "masks/144.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_3", "super_category": "tomato"}
+            }
+        },"images/145.jpg":
+        {
+            "mask": "masks/145.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_3", "super_category": "tomato"}
+            }
+        },"images/146.jpg":
+        {
+            "mask": "masks/146.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_3", "super_category": "tomato"}
+            }
+        },"images/147.jpg":
+        {
+            "mask": "masks/147.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_3", "super_category": "tomato"}
+            }
+        },"images/148.jpg":
+        {
+            "mask": "masks/148.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_2", "super_category": "tomato"}
+            }
+        },"images/149.jpg":
+        {
+            "mask": "masks/149.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_3", "super_category": "tomato"}
+            }
+        },"images/150.jpg":
+        {
+            "mask": "masks/150.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_3", "super_category": "tomato"}
+            }
+        },"images/151.jpg":
+        {
+            "mask": "masks/151.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_3", "super_category": "tomato"}
+            }
+        },"images/152.jpg":
+        {
+            "mask": "masks/152.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_3", "super_category": "tomato"}
+            }
+        },"images/153.jpg":
+        {
+            "mask": "masks/153.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_2", "super_category": "tomato"}
+            }
+        },"images/154.jpg":
+        {
+            "mask": "masks/154.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_2", "super_category": "tomato"}
+            }
+        },"images/155.jpg":
+        {
+            "mask": "masks/155.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_3", "super_category": "tomato"}
+            }
+        },"images/156.jpg":
+        {
+            "mask": "masks/156.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_3", "super_category": "tomato"}
+            }
+        },"images/157.jpg":
+        {
+            "mask": "masks/157.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_3", "super_category": "tomato"}
+            }
+        },"images/158.jpg":
+        {
+            "mask": "masks/158.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_3", "super_category": "tomato"}
+            }
+        },"images/159.jpg":
+        {
+            "mask": "masks/159.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_3", "super_category": "tomato"}
+            }
+        },"images/160.jpg":
+        {
+            "mask": "masks/160.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_3", "super_category": "tomato"}
+            }
+        },"images/161.jpg":
+        {
+            "mask": "masks/161.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_3", "super_category": "tomato"}
+            }
+        },"images/162.jpg":
+        {
+            "mask": "masks/162.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_3", "super_category": "tomato"}
+            }
+        },"images/163.jpg":
+        {
+            "mask": "masks/163.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_3", "super_category": "tomato"}
+            }
+        },"images/164.jpg":
+        {
+            "mask": "masks/164.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_3", "super_category": "tomato"}
+            }
+        },"images/165.jpg":
+        {
+            "mask": "masks/165.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_3", "super_category": "tomato"}
+            }
+        },"images/166.jpg":
+        {
+            "mask": "masks/166.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_3", "super_category": "tomato"}
+            }
+        },"images/167.jpg":
+        {
+            "mask": "masks/167.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_2", "super_category": "tomato"}
+            }
+        },"images/168.jpg":
+        {
+            "mask": "masks/168.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_3", "super_category": "tomato"}
+            }
+        },"images/169.jpg":
+        {
+            "mask": "masks/169.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_3", "super_category": "tomato"}
+            }
+        },"images/170.jpg":
+        {
+            "mask": "masks/170.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_3", "super_category": "tomato"}
+            }
+        },"images/171.jpg":
+        {
+            "mask": "masks/171.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_2", "super_category": "tomato"}
+            }
+        },"images/172.jpg":
+        {
+            "mask": "masks/172.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_2", "super_category": "tomato"}
+            }
+        },"images/173.jpg":
+        {
+            "mask": "masks/173.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_3", "super_category": "tomato"}
+            }
+        },"images/174.jpg":
+        {
+            "mask": "masks/174.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_3", "super_category": "tomato"}
+            }
+        },"images/175.jpg":
+        {
+            "mask": "masks/175.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_3", "super_category": "tomato"}
+            }
+        },"images/176.jpg":
+        {
+            "mask": "masks/176.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_3", "super_category": "tomato"}
+            }
+        },"images/177.jpg":
+        {
+            "mask": "masks/177.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_3", "super_category": "tomato"}
+            }
+        },"images/178.jpg":
+        {
+            "mask": "masks/178.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_3", "super_category": "tomato"}
+            }
+        },"images/179.jpg":
+        {
+            "mask": "masks/179.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_3", "super_category": "tomato"}
+            }
+        },"images/180.jpg":
+        {
+            "mask": "masks/180.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_1", "super_category": "tomato"}
+            }
+        },"images/181.jpg":
+        {
+            "mask": "masks/181.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_1", "super_category": "tomato"}
+            }
+        },"images/182.jpg":
+        {
+            "mask": "masks/182.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_1", "super_category": "tomato"}
+            }
+        },"images/183.jpg":
+        {
+            "mask": "masks/183.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_1", "super_category": "tomato"}
+            }
+        },"images/184.jpg":
+        {
+            "mask": "masks/184.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_1", "super_category": "tomato"}
+            }
+        },"images/185.jpg":
+        {
+            "mask": "masks/185.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_1", "super_category": "tomato"}
+            }
+        },"images/186.jpg":
+        {
+            "mask": "masks/186.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_1", "super_category": "tomato"}
+            }
+        },"images/187.jpg":
+        {
+            "mask": "masks/187.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_1", "super_category": "tomato"}
+            }
+        },"images/188.jpg":
+        {
+            "mask": "masks/188.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_1", "super_category": "tomato"}
+            }
+        },"images/189.jpg":
+        {
+            "mask": "masks/189.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_1", "super_category": "tomato"}
+            }
+        },"images/190.jpg":
+        {
+            "mask": "masks/190.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_1", "super_category": "tomato"}
+            }
+        },"images/191.jpg":
+        {
+            "mask": "masks/191.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_1", "super_category": "tomato"}
+            }
+        },"images/192.jpg":
+        {
+            "mask": "masks/192.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_1", "super_category": "tomato"}
+            }
+        },"images/193.jpg":
+        {
+            "mask": "masks/193.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_1", "super_category": "tomato"}
+            }
+        },"images/194.jpg":
+        {
+            "mask": "masks/194.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_1", "super_category": "tomato"}
+            }
+        },"images/195.jpg":
+        {
+            "mask": "masks/195.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_1", "super_category": "tomato"}
+            }
+        },"images/196.jpg":
+        {
+            "mask": "masks/196.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_1", "super_category": "tomato"}
+            }
+        },"images/197.jpg":
+        {
+            "mask": "masks/197.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_1", "super_category": "tomato"}
+            }
+        },"images/198.jpg":
+        {
+            "mask": "masks/198.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_1", "super_category": "tomato"}
+            }
+        },"images/199.jpg":
+        {
+            "mask": "masks/199.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_1", "super_category": "tomato"}
+            }
+        },"images/200.jpg":
+        {
+            "mask": "masks/200.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_1", "super_category": "tomato"}
+            }
+        },"images/201.jpg":
+        {
+            "mask": "masks/201.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_1", "super_category": "tomato"}
+            }
+        },"images/202.jpg":
+        {
+            "mask": "masks/202.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_1", "super_category": "tomato"}
+            }
+        },"images/205.jpg":
+        {
+            "mask": "masks/205.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_1", "super_category": "tomato"}
+            }
+        },"images/206.jpg":
+        {
+            "mask": "masks/206.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_1", "super_category": "tomato"}
+            }
+        },"images/207.jpg":
+        {
+            "mask": "masks/207.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_1", "super_category": "tomato"}
+            }
+        },"images/209.jpg":
+        {
+            "mask": "masks/209.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_2", "super_category": "tomato"}
+            }
+        },"images/211.jpg":
+        {
+            "mask": "masks/211.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_3", "super_category": "tomato"}
+            }
+        },"images/212.jpg":
+        {
+            "mask": "masks/212.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_3", "super_category": "tomato"}
+            }
+        },"images/213.jpg":
+        {
+            "mask": "masks/213.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_3", "super_category": "tomato"}
+            }
+        },"images/221.jpg":
+        {
+            "mask": "masks/221.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_3", "super_category": "tomato"}
+            }
+        },"images/223.jpg":
+        {
+            "mask": "masks/223.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_2", "super_category": "tomato"}
+            }
+        },"images/225.jpg":
+        {
+            "mask": "masks/225.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_3", "super_category": "tomato"}
+            }
+        },"images/226.jpg":
+        {
+            "mask": "masks/226.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_3", "super_category": "tomato"}
+            }
+        },"images/227.jpg":
+        {
+            "mask": "masks/227.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_3", "super_category": "tomato"}
+            }
+        },"images/230.jpg":
+        {
+            "mask": "masks/230.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_3", "super_category": "tomato"}
+            }
+        },"images/239.jpg":
+        {
+            "mask": "masks/239.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_2", "super_category": "tomato"}
+            }
+        },"images/249.jpg":
+        {
+            "mask": "masks/249.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_3", "super_category": "tomato"}
+            }
+        },"images/250.jpg":
+        {
+            "mask": "masks/250.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_3", "super_category": "tomato"}
+            }
+        },"images/251.jpg":
+        {
+            "mask": "masks/251.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_3", "super_category": "tomato"}
+            }
+        },"images/252.jpg":
+        {
+            "mask": "masks/252.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_3", "super_category": "tomato"}
+            }
+        },"images/255.jpg":
+        {
+            "mask": "masks/255.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_3", "super_category": "tomato"}
+            }
+        },"images/257.jpg":
+        {
+            "mask": "masks/257.jpg",
+            "color_categories":
+            {
+                "(0, 0, 255)": {"category": "grade_2", "super_category": "tomato"}
+            }
+        }
+    },
+    "super_categories":
+    {
+        "tomato": ["grade_1", "grade_2", "grade_3"]
+    }
+}
