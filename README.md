@@ -12,10 +12,6 @@ Với thư viện LabVIEW Modbus API, tôi đã xây dựng một mạng truyề
 
 Mô hình phần cứng được thiết kế đơn giản, có ảnh trong Word. Rất tiếc tôi không còn video hoạt động.
 
-Nguyên tắc hoạt động: 
-  Cảm biến hồng ngoại phát hiện trái cà chua trên băng tải. Hình ảnh được LabVIEW thu thập qua camera, và được mô hình Mask RCNN xử lý.
-  Loại quả cà chua được nhận diện, tùy theo loại nhãn (label) chương trình LabVIEW sẽ điều khiển PLC, Arduino qua mạng Modbus tín hiệu điều khiển phù hợp.
-
 Đồ án này đã đáp ứng được mục tiêu mà tôi hướng tới, là quá trình tìm tòi, học tập, nghiên cứu của tôi, dưới sự hướng dẫn tận tình của Ph.D Pham Quoc Thien. 
 
 Tuy vậy, nó vẫn còn nhiều thiếu sót như tốc độ xử lý chậm, thiết kế cơ khí hạn chế và số lượng nhãn phân loại còn ít.
